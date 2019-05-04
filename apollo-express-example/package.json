@@ -1,0 +1,17 @@
+{
+  "name": "apollo-express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chaur Wu <wu.chaur@gmail.com> (http://www.essentier.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.0.6",
+    "express": "^4.15.2",
+    "graphql": "^0.13.2"
+  }
+}
